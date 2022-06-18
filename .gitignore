@@ -1,0 +1,5 @@
+hard_hat
+hard_hat.zip
+pretrained_models/centernet_mobilenetv2fpn_512x512_coco17_od.tar.gz
+pretrained_models/efficientdet_d0_coco17_tpu-32.tar.gz
+annotations/train.record
