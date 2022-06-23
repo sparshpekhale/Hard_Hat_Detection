@@ -5,7 +5,7 @@
 
 ### Demo:
 ![image](https://github.com/sparshpekhale/Hard_Hat_Detection/blob/master/demo_image.png)
-![video](https://github.com/sparshpekhale/Hard_Hat_Detection/blob/master/demo_detections.mp4)
+https://github.com/sparshpekhale/Hard_Hat_Detection/blob/master/demo_detections.mp4
 
 ## Model used for transfer learning:
 [MobileNet SSD](http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8.tar.gz)
